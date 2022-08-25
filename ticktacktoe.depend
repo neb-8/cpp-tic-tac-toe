@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1612350264 source:c:\users\anonymouse\desktop\ticktacktoe\main.cpp
+	<iostream>
+	<math.h>
+
+1612382346 source:d:\.projektek\ticktacktoe\main.cpp
+	<iostream>
+	<math.h>
+	<conio.h>
+	<cstdio>
+
